@@ -6,12 +6,17 @@ import LoginView from '@/views/LoginView.vue'
 import ProductAPI from '@/views/Product_API.vue'
 import customer from '@/views/Customer.vue'
 import ProductTable from '@/views/ProductTable.vue'
-
+import All_product from '@/views/All_product.vue'
 const routes = [
   {
     path: '/',
     name: 'home',
     component: HomeView
+  },
+  {
+    path: '/All_product',
+    name: 'All_product',
+    component: All_product
   },
   {
     path: '/customer',
