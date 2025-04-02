@@ -13,6 +13,7 @@
           <li><a href="/about" class="nav-link px-2 text-white">About</a></li>
           <li><a href="/customer" class="nav-link px-2 text-white">Contact</a></li>
           <li><a href="/ProductTable" class="nav-link px-2 text-white">ProductTable</a></li>
+          <li><a href="/All_product" class="nav-link px-2 text-white">ShowProduct</a></li>
         </ul>
 
         <form class="col-12 col-lg-auto mb-3 mb-lg-0 me-lg-3" role="search">
